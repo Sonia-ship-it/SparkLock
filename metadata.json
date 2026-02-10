@@ -1,0 +1,8 @@
+
+{
+  "name": "SparkLock",
+  "description": "A comprehensive mobile-first smart system interface for fire prevention and electrical monitoring, featuring landing pages, authentication, real-time dashboards, and analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
