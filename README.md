@@ -9,6 +9,10 @@ SparkLock is an AI-powered smart fire prevention system designed to prevent home
 
 ⚙️ Embedded System: Integrated hardware sensors detect sparks, smoke, or unusual temperature changes, allowing the system to take immediate preventive actions and communicate with the mobile and web platforms.
 
+
+
+
+
 The Problem
 
 Every year, fires caused by hidden wiring, gas leaks, and overheated circuits result in thousands of lives lost and billions in property damage.
@@ -27,6 +31,8 @@ SparkLock is an integrated system that uses Local Edge AI to monitor home safety
 
 📡 Real-Time Alerts: Notifies the owner via mobile app and sends GPS location data to the fire brigade for immediate response.
 
+
+
 🛠️ Technology & Architecture
 
 Our system relies on a multi-layered sensor approach:
@@ -37,6 +43,8 @@ Our system relies on a multi-layered sensor approach:
 
 🧠 SparkLock Hub: Processes data locally using AI for trend prediction and logging.
 
+
+
 🌍 Impact & Alignment
 
 We aim to build a safer Rwanda by aligning with:
@@ -46,6 +54,8 @@ We aim to build a safer Rwanda by aligning with:
 🌱 Global SDGs: Innovating for sustainable cities and community safety.
 
 🤝 Key Partners: Collaborating with Rwanda National Police, RURA, and Rwanda Energy Group (REG).
+
+
 
 📞 Contact & Support
 
