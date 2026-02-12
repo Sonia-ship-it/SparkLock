@@ -65,4 +65,4 @@ We aim to build a safer Rwanda by aligning with:
 💬 If you are interested in our mission or have questions about the SparkLock proposal, feel free to reach out through our repository discussions!
 
 "United through innovation, we can achieve a safer, smarter future for everyone."
->>>>>>> b8da7fc6a9b0768fbb37e02b0a5d935ba0429b03
+
