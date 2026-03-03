@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "SparkLock",
+    "slug": "SparkLock",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/LogoS.png",
+    "scheme": "saveit",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff",
+        "foregroundImage": "./assets/icons/LogoS.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.SaveIt"
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/icons/LogoS.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/icons/LogoS.png",
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ],
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
